@@ -20,13 +20,13 @@ keywords:
 ["The Art of Software Testing"](http://www.amazon.com/gp/product/1118031962/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118031962&linkCode=as2&tag=yegor256com-20&linkId=RFPKLHVYE6E27XYO)
 by Glenford J. Myers, Tom Badgett and Corey Sandler is one of
 my favorite books about testing and software engineering in
-general. In this article I'm trying to give an overview of
-its most interesting ideas and highlight its most important quotes.
+general. In this article, I will provide an overview of
+the book, as well as highlight quotes and other things that I found interesting.
 
-There were three editions of the book. The first one was published
+There are three editions of the book. The first one was published
 in 1979, when I was just too young to appreciate it. The second one in 2004 &mdash;
 I read it first in 2007. The third one just two years ago, in 2012. I bought
-it too, and read again. It is still the writing number one in software testing domain,
+that one also, and read it again. It is still one of the best sources in the software testing domain,
 despite its age and some content that is rather out-dated.
 
 ## Out-dated Content
